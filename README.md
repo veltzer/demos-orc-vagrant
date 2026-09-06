@@ -1,4 +1,4 @@
-# demos-vagrant
+# demos-orc-vagrant
 Demos for the hashicorp vagrant tool
 
 ## Links
